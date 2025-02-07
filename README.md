@@ -7,7 +7,7 @@ Authors: [Ziyan Li](https://github.com/komorebilzy), [Xinyao Li](https://github.
 
 - [Source Code](https://github.com/lixinyao11/extreme-parkour)
 
-- [Paper In PDF](DiffAnnot.pdf)
+- [Paper In PDF](parkour_but_safe.pdf)
 
 This project uses [extreme-parkour](https://github.com/chengxuxin/extreme-parkour) and [ABS](https://github.com/LeCAR-Lab/ABS).
 
