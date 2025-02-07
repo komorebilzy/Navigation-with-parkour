@@ -3,7 +3,7 @@
 > Under Review at ICRMV.
 
 
-Authors: [Ziyan Li](https://github.com/komorebilzy), [Xinyao Li](https://github.com/lixinyao11)
+Authors: [Ziyan Li*](https://github.com/komorebilzy), [Xinyao Li*](https://github.com/lixinyao11)
 
 - [Source Code](https://github.com/lixinyao11/extreme-parkour)
 
@@ -19,13 +19,11 @@ This paper addresses the challenges of extending parkour skills to practical nav
 
 ![](method.png)
 
-We leverage simulation-based rollouts to collect diverse data and train the policy selector, enabling the robot to make informed decisions based on depth information.
+During the training phase, the Parkour Policy and Avoid Policy are trained separately in the simulator. The Parkour Policy is then rolled out to collect data, which is used to train the Policy Selector. During the deployment phase, the Policy Selector computes a reward based on the depth input. If the reward exceeds a predefined threshold, the Parkour Policy is selected; otherwise, the Avoid Policy is chosen.
 
 ### Visualization of Our pipline
 
 ![](result_1.png)
-
-Visualization of our result.
 
 The first two rows show the robot chooses to parkour through the obstacle when the obstacle is relatively low. The last two rows show the robot chooses to walk around when the obstacle is too high and difficult. The corresponding depth image is shown below the robot.
 
