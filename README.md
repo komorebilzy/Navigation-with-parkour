@@ -1,9 +1,9 @@
-## Agile Navigation with Parkour Skills
+## Pakour but Safe: Agile Navigation with Parkour Skills
 
 > Under Review at ICRMV.
 
 
-Authors: [Ziyan Li*](https://github.com/komorebilzy), [Xinyao Li*](https://github.com/lixinyao11)
+Authors: [Ziyan Li](https://github.com/komorebilzy), [Xinyao Li](https://github.com/lixinyao11)
 
 - [Source Code](https://github.com/lixinyao11/extreme-parkour)
 
