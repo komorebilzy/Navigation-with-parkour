@@ -1,7 +1,4 @@
 # Extreme Parkour with Legged Robots #
-<p align="center">
-<img src="./images/teaser.jpeg" width="80%"/>
-</p>
 
 **Authors**: [Xuxin Cheng*](https://chengxuxin.github.io/), [Kexin Shi*](https://tenhearts.github.io/), [Ananye Agarwal](https://anag.me/), [Deepak Pathak](https://www.cs.cmu.edu/~dpathak/)  
 **Website**: https://extreme-parkour.github.io  
