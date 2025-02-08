@@ -1,9 +1,9 @@
 ## Pakour but Safe: Agile Navigation with Parkour Skills
 
-> Under Review at ICRMV.
+> Accepted by ICRMV 2025.
 
 
-Authors: [Ziyan Li](https://github.com/komorebilzy), [Xinyao Li](https://github.com/lixinyao11)
+Authors: [Ziyan Li](https://github.com/komorebilzy) *, [Xinyao Li](https://github.com/lixinyao11) *
 
 - [Source Code](https://github.com/lixinyao11/extreme-parkour)
 
@@ -30,6 +30,6 @@ The first two rows show the robot chooses to parkour through the obstacle when t
 
 ### Credit
 
-SJTU Course CS348: Computer Vision (2024 Fall) Team E Project.
+SJTU Course AI3604: Computer Vision (2024 Fall) Team E Project.
 
-This page is maintained by CS348 - Group E.
+This page is maintained by AI3604 - Group E.
